@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color:  black;  
+}
+
+.container {
+    background-color: rgb(191, 200, 248);
+    margin-top:20px;
+    border-radius: 25px;
+    max-width: 600px;
+    padding: 15px;
+}
+
+.header {
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.div1 {
+    font-size: 30px;
+}
