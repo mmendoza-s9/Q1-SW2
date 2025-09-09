@@ -9,16 +9,16 @@ popular_item = ['Oreo Cheesecake', 'Blackberry Pie', 'Black Forest Cake']  # lis
 popular_item_price = 19.39  # float
 
 product_name1 = 'Blueberry Cheesecake'  # string
-menu_price1 = 22.40  # float
+menu_price1 = 22.45  # float
 
 product_name2 = 'Yema Cheesecake'  # string
-menu_price2 = 21.20  # float
+menu_price2 = 21.25  # float
 
 product_name3 = 'Chocolate Cheesecake'  # string
-menu_price3 = 15.60  # float
+menu_price3 = 15.65  # float
 
 product_name4 = 'Cheesecake'  # string
-menu_price4 = 19.40  # float 
+menu_price4 = 19.45  # float 
 
 
 business_hours = 'Open: 11:30 AM to 10:30 PM'  # string
@@ -49,4 +49,5 @@ display(f'{menu_price4}', target='price_4')
 
 
 # buisness hours for display
+
 display(f'{business_hours}', target='div3')
